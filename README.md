@@ -17,6 +17,22 @@ I am a full stack web developer. I love creating useful things with technology.
   
 </details>
 
+<details>
+  <summary>Projects I have worked on</summary>
+  <br>
+  Group projects:
+  - <a href="https://pantree-app.herokuapp.com/#/">Pantree</a>
+  - <a href="https://show-me-the-monaay.herokuapp.com/#/">Show me the money</a>
+  - <a href="https://king-pong2.herokuapp.com/">Pong</a>
+  - <a href="https://pokemon-mauve.herokuapp.com/">Pokemon mauve</a>
+  - <a href="https://bears-vs-duck.herokuapp.com/">Bears vs Duck</a>
+  <br>
+  Personal projects:
+  <a href="https://to-dooo.herokuapp.com">To do list</a>
+  <a href="https://dog-walks-waikato.herokuapp.com/">Dog walks Waikato</a>
+  
+</details>
+
 ### Git stats
 From May-July 2020 I have been pair and group coding daily. My commit history stats might have a few gaps as my commits were made on my colleagues account.
 
