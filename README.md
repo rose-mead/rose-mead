@@ -3,7 +3,7 @@ I am a full stack web developer. I love creating useful things with technology.
 
 - ☀️ Top skill - Developing web apps with React and Javascript.
 - 🌱 I’m always learning new technologies - next up...Typescript
-- 🔭 I’m currently working on a 'Pantree' a meal planning app
+- 🔭 I’m currently working on 'Pantree' a meal planning app
 
 <details>
   <summary>Some interesting facts about me</summary>
