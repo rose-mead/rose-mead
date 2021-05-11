@@ -21,7 +21,7 @@ I am a full stack web developer currently teaching at a web development bootcamp
   <summary>Projects I have worked on</summary>
   <br>
 
-  - <a href="https://pantree-app.herokuapp.com/#/">Pantree</a>
+  - <a href="https://pantreee.herokuapp.com/#/">Pantree</a>
   - <a href="https://show-me-the-monaay.herokuapp.com/#/">Show me the money</a>
   - <a href="https://to-dooo.herokuapp.com">To do list</a>
   - <a href="https://dog-walks-waikato.herokuapp.com/">Dog walks app</a>
