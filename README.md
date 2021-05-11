@@ -1,18 +1,18 @@
 ### Hey, It's Rose Mead here 👋
-I am a full stack web developer. I love creating useful things with technology.
+I am a full stack web developer currently teaching at a web development bootcamp. I love creating useful things with technology.
 
 - ☀️ Top skill - Developing web apps with React and Javascript.
-- 🌱 I’m always learning new technologies - next up...Typescript and C#
-- 🔭 I’m currently working on 'Pantree' a meal planning app
+- 🔭 I’m currently working on an app to consume DOC's API for walking trails
 
 <details>
   <summary>Some interesting facts about me</summary>
   <br>
   
   - :pencil2:	I'm constantly creating - whether that is with technology or drawing, painting or writing in my spare time. 
+  - :mountain:	I love a good challenge - whether that is a tricky coding problem or running a half marathon. 
   - 📕 I love reading literary fiction novels. 
   - :paw_prints: I have an awesome Border Collie who I teach cool tricks. 
-  - :tulip:	I'm fascinated by the beauty in nature. 
+  - :tulip:	I'm constantly admiring by the beauty in nature. 
   - :lock: I used to own and design escape rooms, and I still love to play them.
   
 </details>
